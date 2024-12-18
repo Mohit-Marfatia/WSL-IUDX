@@ -8,8 +8,6 @@ This is a Django-based API project for managing file ownership transfers and rev
 - [Installation](#installation-instructions)
 - [API Endpoints](#api-endpoints)
 - [Authentication](#authentication-for-api-usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Requirements
 Before you begin, ensure you have the following installed:
